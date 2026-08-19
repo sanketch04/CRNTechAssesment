@@ -1,0 +1,6 @@
+@CRNProductApi_HostAddress = http://localhost:5047
+
+GET {{CRNProductApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
